@@ -59,7 +59,7 @@ export default function Home() {
         <link
           rel="mask-icon"
           href="/sample-icon.svg"
-          color="#0989d8"
+          color="#ffffff"
         />
 
         {/* Android Chrome */}
