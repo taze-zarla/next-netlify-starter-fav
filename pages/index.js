@@ -31,12 +31,12 @@ export default function Home() {
         {/* .ico only for last resort fallback for non-modern devices */}
         <link
           rel="icon"
-          href="/sample-icon-48x48.ico"
-          sizes="48x48"
+          href="/sample-icon.ico"
+          sizes="16x16 32x32 48x48"
         />
         <link
           rel="shortcut icon"
-          href="/sample-icon-48x48.ico"
+          href="/sample-icon.ico"
         />
 
         {/* Edge and IE 12 */}
