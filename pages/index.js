@@ -13,6 +13,8 @@ export default function Home() {
         {/* General Browsers */}
         <meta name="theme-color" content={brandColor} />
         <meta name="application-name" content="Sample" />
+
+        {/* prefer 48x48 png */}
         <link
           rel="icon"
           type="image/png"
@@ -25,6 +27,8 @@ export default function Home() {
           href="/sample-icon.svg"
           sizes="any"
         />
+
+        {/* .ico only for last resort fallback for non-modern devices */}
         <link
           rel="icon"
           href="/sample-icon-48x48.ico"
