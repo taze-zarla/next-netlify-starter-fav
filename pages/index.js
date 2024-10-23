@@ -87,7 +87,6 @@ export default function Home() {
           rel="apple-touch-icon"
           href="/sample-apple-touch-icon-180x180.png"
         />
-        <link rel="mask-icon" href="/sample-icon.svg" color="#ffffff" />
 
         {/* Android Chrome */}
         <link rel="manifest" href="/site.webmanifest" />
