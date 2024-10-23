@@ -89,7 +89,7 @@ export default function Home() {
         />
 
         {/* Android Chrome */}
-        <link rel="manifest" href="/site.webmanifest" />
+        <link rel="manifest" href="/manifest.json" />
       </Head>
 
       <main>
